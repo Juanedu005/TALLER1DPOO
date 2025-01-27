@@ -1,0 +1,13 @@
+tipo:GasolinaTipo3:8:6.0
+tipo:GasolinaTipo2:6:4.0
+tipo:GasolinaTipo4:10:8.0
+tipo:GasolinaTipo1:4:2.0
+surtidor:juanedu:GasolinaTipo3:-0.0:GasolinaTipo2:-0.0:GasolinaTipo4:-0.0:GasolinaTipo1:-0.0
+surtidor:henry:GasolinaTipo3:-0.0:GasolinaTipo2:-0.0:GasolinaTipo4:-0.0:GasolinaTipo1:-0.0
+surtidor:santiru:GasolinaTipo3:-0.0:GasolinaTipo2:-0.0:GasolinaTipo4:-0.0:GasolinaTipo1:-0.0
+surtidor:henry:GasolinaTipo3:-0.0:GasolinaTipo2:-0.0:GasolinaTipo4:-0.0:GasolinaTipo1:-0.0
+empleado:henry:0
+empleado:mariaxime:0
+empleado:juanedu:0
+empleado:santiru:0
+empleado:jorgito:0

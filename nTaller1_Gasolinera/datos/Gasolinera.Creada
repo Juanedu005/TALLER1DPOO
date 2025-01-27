@@ -1,0 +1,14 @@
+tipo:gasolina2:8:8.0
+tipo:gasolina4:6:92.0
+tipo:gasolina5:44:56.0
+tipo:gasolina33:55:9.0
+tipo:gasolina1:5:4.0
+surtidor:andresito:gasolina2:0.0:gasolina4:0.0:gasolina5:0.0:gasolina33:0.0:gasolina1:0.0
+surtidor:andresito:gasolina2:0.0:gasolina4:0.0:gasolina5:0.0:gasolina33:0.0:gasolina1:0.0
+surtidor:gasolina3:gasolina2:0.0:gasolina4:0.0:gasolina5:0.0:gasolina33:0.0:gasolina1:0.0
+surtidor:andresito:gasolina2:0.0:gasolina4:0.0:gasolina5:0.0:gasolina33:0.0:gasolina1:0.0
+empleado:joselito:0
+empleado:andresito:0
+empleado:gasolina3:0
+empleado:juanito:0
+empleado:santiaguito:0
